@@ -5,7 +5,7 @@
 
 
 
-### 🔭 I’m currently working on [TwitchNotificationBot](https://github.com/jjisolo/TwitchNotificationTelegramBot) and [C++ Ray Tracer](https://github.com/jjisolo/cRayTracer)
+### 🔭 I’m currently working on [TwitchNotificationBot](https://github.com/jjisolo/TwitchNotificationTelegramBot)
 ### 🌱 I’m currently learning Computer graphics/image processing
 
 
