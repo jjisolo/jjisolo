@@ -6,7 +6,7 @@
 
 
 ### 🔭 I’m currently working on [jjjed - cross-platofrm DOS inspired text editor](https://github.com/jjisolo/jjed)  
-### 🌱 I’m currently learning Computer graphics(OpenGL ==> glut, glew, sdl2)
+### 🌱 I’m currently learning Computer graphics(glut, glew, sdl2)
 
 
 
