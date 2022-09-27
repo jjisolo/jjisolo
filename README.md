@@ -6,7 +6,7 @@
 
 
 ### 🔭 I’m currently working on [jjjed - cross-platofrm DOS inspired text editor](https://github.com/jjisolo/jjed)  
-### 🌱 I’m currently learning Computer graphics(glut, glew, sdl2)
+### 🌱 I’m currently learning Computer graphics(glut, glew)
 
 
 
@@ -29,7 +29,7 @@
 ### 📫 How to reach me:
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/honey_ittsya)
-
+![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/honey_ittsya)
 
 
 <!--
