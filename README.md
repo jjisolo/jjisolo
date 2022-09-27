@@ -29,8 +29,7 @@
 ### 📫 How to reach me:
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/honey_ittsya)
-![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/honey_ittsya)
-
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](jjisolo24@gmail.com)
 
 <!--
 **jjisolo/jjisolo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
