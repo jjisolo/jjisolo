@@ -5,8 +5,8 @@
 
 
 
-### 🔭 I’m currently working on [TwitchNotificationBot](https://github.com/jjisolo/TwitchNotificationTelegramBot)
-### 🌱 I’m currently learning Computer graphics/image processing
+### 🔭 I’m currently working on [jjjed - cross-platofrm DOS inspired text editor](https://github.com/jjisolo/jjed)  
+### 🌱 I’m currently learning Computer graphics(OpenGL ==> glut, glew, sdl2)
 
 
 
