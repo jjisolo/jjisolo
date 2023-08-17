@@ -2,10 +2,6 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Computer science student from Ukraine</h3>
 
-### 🌱 I’m currently learning Computer graphics(OpenGL 4.0, glfw, glew)
-
-
-
 ### 💻 Languages and Tools
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
